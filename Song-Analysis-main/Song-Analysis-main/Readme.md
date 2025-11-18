@@ -2,23 +2,8 @@
 A comprehensive, end-to-end data science solution focused on deciphering the complex patterns that drive music popularity. The project leverages Machine Learning to accurately forecast a song's success (Spotify Stream Counts) using real-world audio features and market visibility data.
 
 Live Link: [https://song-analysis-data-science-project.streamlit.app/]
-📁 Project Structure
-.
-├── assets/
-│   └── images/                # All EDA & feature importance visualizations
-├── models/
-│   └── random_forest_log_model.pkl   # Final saved model (Random Forest Regressor)
-├── notebook/
-│   └── song_popularity_analysis.ipynb  # Comprehensive EDA + model development notebook
-├── pages/
-│   ├── 1_EDA_Insights.py       # In-depth visual analysis
-│   ├── 2_Model_Training.py     # Model benchmarking and results
-│   ├── 3_Prediction_Tool.py    # Interactive tool for real-time stream prediction
-│   └── 4_Project_Summary.py    # Final takeaways for stakeholders
-├── utils/
-│   └── (optional helper scripts)
-├── Home_Page.py               # Landing page and project overview
-└── requirements.txt             # Python dependencies list
+
+
 
 🧠 Problem Statement & Value Proposition
 Challenge: In the competitive streaming landscape, identifying a "hit song" before its release is a multi-million dollar decision. Traditional scouting methods are subjective and slow.

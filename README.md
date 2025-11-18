@@ -28,4 +28,24 @@ Run the Streamlit app: Bash streamlit run Home_Page.py
 
 Output Images
 <img width="1913" height="1002" alt="image" src="https://github.com/user-attachments/assets/c9b0d27f-52ef-40ab-a6b8-2fd41e0dddf4" />
+<img width="1893" height="888" alt="image" src="https://github.com/user-attachments/assets/5eaa2fba-7ec5-444a-8f74-77a3f35b487f" />
+<img width="1904" height="895" alt="image" src="https://github.com/user-attachments/assets/655caaec-ee7b-4f3e-a1ba-d96b2cda8e69" />
+<img width="1885" height="869" alt="image" src="https://github.com/user-attachments/assets/f7af06e8-6930-4267-911a-6d79422bef26" />
+<img width="1905" height="898" alt="image" src="https://github.com/user-attachments/assets/f561e4dc-8f38-4f7f-a532-7e80c882e700" />
+<img width="1874" height="884" alt="image" src="https://github.com/user-attachments/assets/d99bb22d-24fd-42cd-a0e4-7acbbbc96f69" />
+<img width="1901" height="909" alt="image" src="https://github.com/user-attachments/assets/858e89a4-b5f4-48a3-8c50-60541cda1e8a" />
+<img width="1883" height="876" alt="image" src="https://github.com/user-attachments/assets/14039798-4c56-4fd5-9266-ddd55faee217" />
+<img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/017af571-ec1d-49ac-94ae-ab08d6cdd4b7" />
+<img width="1910" height="856" alt="image" src="https://github.com/user-attachments/assets/ba93d195-a103-4981-aba6-68561e8d7b4a" />
+<img width="1885" height="869" alt="image" src="https://github.com/user-attachments/assets/cf1d4be0-b952-4969-890a-c6d725d83d8f" />
+<img width="1908" height="900" alt="image" src="https://github.com/user-attachments/assets/d7b6ffd9-2ee1-4b21-9b37-9c0e2966d8cb" />
+<img width="1903" height="857" alt="image" src="https://github.com/user-attachments/assets/76bd0eaf-4cb6-49ce-a45b-45c06a5e8578" />
+<img width="1903" height="875" alt="image" src="https://github.com/user-attachments/assets/5c2b422e-dd1b-40f9-9f9c-72566a847187" />
+<img width="1896" height="894" alt="image" src="https://github.com/user-attachments/assets/c39b236a-beb3-493d-967d-
+bd403ab66949" />
+<img width="1907" height="883" alt="image" src="https://github.com/user-attachments/assets/0c1dc61b-6dc9-49fb-9119-87428bd7c234" />
+<img width="1895" height="895" alt="image" src="https://github.com/user-attachments/assets/30ee6dc2-bdd7-4941-8aaa-e805c5deb98e" />
+<img width="1880" height="865" alt="image" src="https://github.com/user-attachments/assets/31cd2bed-75a4-4563-bd7c-229be951f318" />
+
+
 

@@ -24,3 +24,8 @@ Bash pip install -r requirements.txt
 Run the Streamlit app: Bash streamlit run Home_Page.py
 
 ✨ Author Name : VidhyaShree V
+
+
+Output Images
+<img width="1913" height="1002" alt="image" src="https://github.com/user-attachments/assets/c9b0d27f-52ef-40ab-a6b8-2fd41e0dddf4" />
+

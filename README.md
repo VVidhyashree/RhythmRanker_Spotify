@@ -1,6 +1,5 @@
 🎧 RhythmRanker: AI-Powered Song Popularity Forecast A comprehensive, end-to-end data science solution focused on deciphering the complex patterns that drive music popularity. The project leverages Machine Learning to accurately forecast a song's success (Spotify Stream Counts) using real-world audio features and market visibility data.
 
-Live Link: [https://song-analysis-data-science-project.streamlit.app/]
 
 🧠 Problem Statement & Value Proposition Challenge: In the competitive streaming landscape, identifying a "hit song" before its release is a multi-million dollar decision. Traditional scouting methods are subjective and slow.
 
